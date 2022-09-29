@@ -1,0 +1,7 @@
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("hfgyfygjhfghjgfhjgjhfbvhcghhbhjfghjcbfjfhgfdjhgfhjcgfjhgcyjhfghgdhgfghdgjhfjjjjjjjjjjjjjjjjjhhgdgfhgdjfhhdjhfgshgjcfhjgdhjfdhfgdgfkjhdgjkfhdkhfcjhbxmv cbvmcnbvnmc vbcnvbxmnbcmbvnmbxnbvcnb ncbvdgfueysgdfysdgfdjhfydgyusgdyygfidhufgdyugfyegdygygfdyughhgfydgfudgfydgfyuygfydhgfydgfyegseftdftegfgwaegdguyg6565465346546536736454876yfnjhn")
+}
